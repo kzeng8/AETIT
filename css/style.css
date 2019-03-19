@@ -254,7 +254,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /* End Top header 2 */
 /* Header Aera */
 .header_aera {
-  background: #fff;
+  background:rgba(255,255,255,0.5);
   border-radius: 0;
   border: 0;
   margin: 0;
