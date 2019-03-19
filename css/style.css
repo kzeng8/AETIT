@@ -532,7 +532,15 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .slider_area .slider_inner .camera_fakehover {
   top: 20px;
 }
-
+#ACLhomelogo{
+  height: 150px;
+  width: 150px;
+  margin: 0 auto;
+}
+#mottotext{
+  font-style: italic;
+  margin: 20px;
+}
 /* End slider_area */
 /* slider_area_tow */
 .slider_area_tow .slider_inner .camera_caption div .container {
