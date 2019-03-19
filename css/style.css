@@ -539,7 +539,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 #mottotext{
   font-style: italic;
-  margin: 20px;
+  margin-top: 50px;
+  margin-bottom: 25px;
 }
 /* End slider_area */
 /* slider_area_tow */
