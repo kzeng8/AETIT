@@ -404,6 +404,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 #acllogocenter{
   height: 100px;
   width: 200px;
+  margin: 0px;
+  padding-top: 25px;
 
 }
 /* End Header Aera */
