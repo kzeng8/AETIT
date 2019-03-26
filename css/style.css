@@ -690,7 +690,12 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /* End about_us_area */
 /*--------------------------------------------------*/
 .what_we_area {
-  background: #1ef1db;
+  /* background: #1ef1db; */
+  background: url("../images/ncwit.jpg_large") no-repeat fixed;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+  padding-bottom: 100px;
 }
 .what_we_area .tittle h2:after {
   background: #fff;
@@ -2441,6 +2446,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   .what_we_area .construction_iner .construction {
     max-width: 390px;
     margin: 0 auto;
+
+
   }
 
   .our_team_area .team_row .team_membar {
