@@ -2715,6 +2715,9 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
     padding-top: 10px;
   }
 }
+#centerimg {
+  margin: auto auto;
+}
 /*--------------------------------------------------*/
 
 /*# sourceMappingURL=style.css.map */
