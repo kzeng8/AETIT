@@ -1,7 +1,7 @@
 Link to Website
 https://kzeng8.github.io/AETIT/
 
-
+Bryant Chow and Kevin Zeng
 
 CHANGE LOG
 3/14 and 3/18 - Created navbar by making the courses, faculty, activities, and contact tabs. Removed uneeded info. Added logo in the top left. Added contact inforation in the top header. Made the header fixed and transparent when scrolling. Changed the top background pictures and added ACL logo.
